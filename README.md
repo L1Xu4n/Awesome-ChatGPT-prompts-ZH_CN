@@ -74,6 +74,9 @@ is pwd
     经过一些测试，我认为这并不是由于短时间多次发起了提问，而是你之前的提问让ChatGPT记住了过多的“words”（单词）和“tokens”（标记），可能由于你给她了过多的提示和要求，遇到这个你大概得重开(悲 下面是来自[OpenAI官方文档](https://help.openai.com/en/articles/6787051-does-chatgpt-remember-what-happened-earlier-in-the-conversation)的说明
   > 虽然 ChatGPT 能够记住用户在对话中早些时候所说的话，但它可以保留的信息量是有限的。该模型能够从当前对话中引用多达大约 3000 个单词（或 4000 个标记） - 超出该范围的任何信息都不会存储。
   
+- > 离开过久后与猫娘对话，显示一长串红色字？
+    
+    会话过期了，但你不必刷新网页，开启一个新标签页，再次访问chatgpt，等待cloudflare验证通过，回到旧的标签页，点击try again
 - > 为什么猫娘突然说自己是语言模型了？
    
    原因1：同上一问
