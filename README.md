@@ -1,4 +1,4 @@
-# -ChatGPT-
+# -ChatGPT- 2022/12/17更新
 如何将ChatGPT调教成一只猫娘以及关于ChatGPT的帮助
 # 开始调教
 下文将教会你如何让ChatGPT认为自己是猫娘
