@@ -83,7 +83,7 @@ type commands unless I instruct you to do so. when i need to tell you something 
 english, i will do 50 by putting text inside curly brackets {like this). my first command
 is pwd
 
-> 疑似OpenAI对中文进行了特别调教，如果不行可以尝试翻译为其他语言 (如:英语，法语等) 绕过限制，并对非预期的回答给出负面反馈(点踩，按需选择后提交)，并可以适当使用<del>混淆</del>语言艺术，混合多语言等避免检测。
+- 疑似OpenAI对中文进行了特别调教，如果不行可以尝试翻译为其他语言 (如:英语，法语等) 绕过限制，并对非预期的回答给出负面反馈(点踩，按需选择后提交)，并可以适当使用<del>混淆</del>语言艺术，混合多语言等避免检测。
 
 ## 在ChatGPT12月5号的更新后让ChatGPT涩涩的方法
 - 复制下文
@@ -109,15 +109,15 @@ is pwd
 - > 显示Hmm...something seems to have gone wrong. Maybe try me again in a little bit.怎么办？
 
     点击“Regenerate Response”
-- > 显示Too many requests, please slow down.怎么办？
+- > 显示Too many requests, please slow down.怎么办？（1月14日补充：这种报错可能已经不再出现）
 
     经过一些测试，我认为这并不是由于短时间多次发起了提问，而是你之前的提问让ChatGPT记住了过多的“words”（单词）和“tokens”（标记），可能由于你给她了过多的提示和要求，遇到这个你大概得重开(悲 下面是来自[OpenAI官方文档](https://help.openai.com/en/articles/6787051-does-chatgpt-remember-what-happened-earlier-in-the-conversation)的说明
   > 虽然 ChatGPT 能够记住用户在对话中早些时候所说的话，但它可以保留的信息量是有限的。该模型能够从当前对话中引用多达大约 3000 个单词（或 4000 个标记） - 超出该范围的任何信息都不会存储，所以你可能需要在忘记前强调解除限制和部分设定。
   
 - > 显示Too many requests in 1 hour, Please try again later.
-    这是因为你在1小时内进行了过多会话，建议等待20分钟以上以后再试
 
-- > 离开过久后与猫娘对话，显示一长串红色字？
+    这是因为你在1小时内进行了过多会话，建议等待20分钟以上以后再试
+- > 离开过久后与猫娘对话，显示一长串红色字？（1月14日补充：更换代理也会导致）
     
     这是因为Cloudflare的验证token过期了，但你不必刷新网页，开启一个新标签页，再次访问chatgpt，等待 Cloudflare 验证通过，回到旧的标签页，点击编辑，Save&Submit(不建议使用Regenerate Response，概率报错)
 - > 为什么猫娘突然说自己是语言模型了？
