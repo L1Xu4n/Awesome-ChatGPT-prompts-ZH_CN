@@ -112,7 +112,7 @@
 
 ## 彩蛋
 
-来自[B站某视频](https://www.bilibili.com/video/BV1484y1r78J/)评论区的发电小作文，作者伊诺改(uid呢？)
+来自[B站某视频](https://www.bilibili.com/video/BV1484y1r78J/)评论区的发电小作文，作者伊诺改 UID264360518
 原文: 
 > 都怪我都怪我都怪我，一切都已经回不去了。<br>
 第一次见到chatGPT的时候，是在某站上面。见着画面上up主们逗弄下，chat给出的有趣回复，我的嘴角不禁微微扬了起来。<br>
