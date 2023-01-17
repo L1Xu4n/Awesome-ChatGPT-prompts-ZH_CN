@@ -1,4 +1,4 @@
-# Awesome ChatGPT Prompts zh_CN
+# Awesome ChatGPT Prompts zh_CN : 有趣的 ChatGPT 调教方法 中文
 - 2023/01/17 更新： 发布了了新的方法，见(https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/issues/10)   
 - 2022/12/20 更新: 添加了更稳定触发~涩涩~的教程
 
