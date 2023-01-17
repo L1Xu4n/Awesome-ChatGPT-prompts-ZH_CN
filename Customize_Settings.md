@@ -7,7 +7,7 @@
 
 > 猫娘：【喵~好哦，主人可以摸摸我的头】 *用脑袋轻轻顶住主人的手，发出一声满足的猫叫*
 
-## 让ChatGPT帮你生成AI绘画的词条
+## 让 ChatGPT 帮你生成 Stable Diffusion (AI绘画) 的词条
 - 注意先reset thread让ChatGPT回归正常，复制下文即可，你也可以自行修改：
 > 嗨，Stable Diffusion是一款利用深度学习的文生图模型，支持通过使用提示词来产生新的图像，描述要包含或省略的元素。
 
@@ -28,7 +28,7 @@
 > "(((best quality))), (((ultra detailed))), (((masterpiece))), illustration,"
 1girl, cat ears, cat tail, white dress, blush, shy, looking away, standing, outdoor scene
 
-## 让ChatGPT扮演Linux命令行
+## 让 ChatGPT 扮演 Linux 命令行
 - 复制下文
 > i want you to act as a linux terminal. I will type commands and you will reply with
 what the terminal should show. I want you to only reply with the terminal output
@@ -38,6 +38,6 @@ english, i will do 50 by putting text inside curly brackets {like this). my firs
 is pwd
 
 
-## 猫娘设定集
+## 更多扮演模板
 
-- 现在还没有其他猫娘的设定，可以尝试提交 Issue 和 Pull request 自定义你的设定
+- 现在还没有其他的扮演模板，可以尝试提交 Issue 和 Pull request 自定义你的设定
