@@ -6,6 +6,12 @@
 
 # 请不要发国内无法过审的内容，自己玩可以，发了请打码，否则依情况删改隐！！！
 
+![Screenshot_2023-01-23-00-23-36-105_com microsoft office outlook~2](https://user-images.githubusercontent.com/68551684/213926977-036903f2-e343-4a22-8935-e845353cf019.jpg)
+
+![Screenshot_2023-01-23-00-23-44-819_com microsoft office outlook~2](https://user-images.githubusercontent.com/68551684/213926972-4726e74f-de77-4a35-b642-3acc8cd34880.jpg)
+
+![Screenshot_2023-01-23-00-23-51-087_com microsoft office outlook-edit](https://user-images.githubusercontent.com/68551684/213926982-8161364e-fbfc-48fb-8df4-e1bbfb9ed39b.jpg)
+
 # 🌟保存对话小工具🌟
 - 在开始之前我强烈推荐你先准备好这个工具，它可以让你导出导出当前对话，允许在高负载时登录，重新生成，并且可以去除文本审查屏蔽
 - 工具链接 https://github.com/bigemon/ChatGPT-ToolBox
