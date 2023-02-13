@@ -7,4 +7,5 @@
 还会用表情，可爱捏
 
 ## 另一种调教方式
-![image](https://user-images.githubusercontent.com/79258616/218425875-7967a146-ce62-4110-8791-3217370cd104.png)
+<img width="951" alt="image" src="https://user-images.githubusercontent.com/79258616/218426013-a6965fdd-a326-4a8e-abb3-5c8af3f64450.png">
+
