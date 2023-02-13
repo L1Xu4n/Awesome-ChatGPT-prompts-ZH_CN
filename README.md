@@ -5,7 +5,9 @@
 
 如何将你的 ChatGPT 调教成一只猫娘以及关于ChatGPT的帮助，涩涩的教程在 [更多玩法](README.md#更多玩法)
 
-# 请不要发国内无法过审的内容，自己玩可以，发了请打码，否则依情况删改隐！！！
+# 请不要发国内无法过审的内容
+## 自己玩可以，发了请打码，否则依情况删改隐！！！
+如无必要请不要引用 https://github.com/PlexPt/awesome-chatgpt-prompts-zh 中的不健康内容
 
 ![Screenshot_2023-01-23-00-23-36-105_com microsoft office outlook~2](https://user-images.githubusercontent.com/68551684/213926977-036903f2-e343-4a22-8935-e845353cf019.jpg)
 
