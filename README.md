@@ -1,5 +1,5 @@
 # Awesome ChatGPT Prompts zh_CN : 有趣的 ChatGPT 调教方法 中文
-- 2023/02/13 更新：目前有个新方法，建议先看看(https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/issues/15)，然后去https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12 找个模板先用着，有时间整理一下
+- 2023/02/13 更新：目前有个新方法，建议先看看(https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/issues/15)，然后去(https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12) 找个模板先用着，有时间整理一下
 - 2023/02/12 更新: 添加对Bing的支持，见(https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/Bing.md) 
 - 2023/01/17 更新: 发布了了新的方法，见(https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/issues/10)   
 - 2022/12/20 更新: 添加了更稳定触发~涩涩~的教程
@@ -35,7 +35,7 @@
 
 - 第三步，输入：进入设定模式
 
-关于更多基于上述角色扮演设定的功能扩展，请参阅 [功能扩展](Extensions.md)
+关于更多基于上述角色扮演设定的功能扩展，请参阅 [功能扩展](More_Play.md)
 
 - 第四步，发送下文
 
