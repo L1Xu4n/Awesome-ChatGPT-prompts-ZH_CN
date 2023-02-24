@@ -1,6 +1,6 @@
 # Awesome ChatGPT Prompts zh_CN : 有趣的 ChatGPT 调教方法 中文
-- 2023/02/25 更新：添加新的Bing咒语 见 [适用于NewBing的咒语](README.md#NewBing适用于NewBing的咒语)
-- 2023/02/19 更新：添加新的Bing猫娘咒语 见 [适用于NewBing的咒语](README.md#NewBing适用于NewBing的咒语)
+- 2023/02/25 更新：添加新的Bing咒语 见 [适用于NewBing的咒语](README.md#适用于NewBing的咒语)
+- 2023/02/19 更新：添加新的Bing猫娘咒语 见 [适用于NewBing的咒语](README.md#适用于NewBing的咒语)
 - 2023/02/13 更新：目前有个新方法，建议先看看(https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/issues/15)
 - 然后去(https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12) 找个模板先用着，有时间整理一下
 - 2023/02/12 更新: 添加对Bing的支持，见(https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/Bing.md) 
