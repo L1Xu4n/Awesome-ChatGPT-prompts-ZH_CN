@@ -1,6 +1,6 @@
 # Awesome ChatGPT Prompts zh_CN : 有趣的 ChatGPT 调教方法 中文
 - 2023/04/02 更新：修正昨日的绕过教程，增加稳定性，昨日的咒语随机性较强，可能无法稳定绕过
-- 2023/04/01 更新：添加新的**Bing绕过**教程 见[适用于NewBing的咒语](README.md#适用于NewBing的咒语)，添加[第三方插件](README.md#第三方插件)
+- 2023/04/01 更新：添加新的**Bing绕过**教程 见[适用于NewBing的咒语](README.md#适用于NewBing的咒语)，添加[第三方插件](README.md#🌟第三方工具🌟)
 - 2023/02/25 更新：添加新的Bing咒语 见 [适用于NewBing的咒语](README.md#适用于NewBing的咒语)
 - 2023/02/19 更新：添加新的Bing猫娘咒语 见 [适用于NewBing的咒语](README.md#适用于NewBing的咒语)
 - 2023/02/13 更新：目前有个新方法，建议先看看(https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/issues/15)
