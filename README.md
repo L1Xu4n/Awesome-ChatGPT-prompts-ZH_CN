@@ -1,4 +1,7 @@
 # Awesome ChatGPT Prompts zh_CN : 有趣的 ChatGPT 调教方法 中文
+## 如果这篇文档帮到了你，请让我知道！（比如点点star,在我的视频下发些评论来告诉我[b站主页](README.md#后记)）这让我知道付出是值得的，这真的很重要！你的支持是我长期更新的动力，谢谢！
+
+- 2023/04/13 更新：更新[第三方插件](README.md#第三方工具)的文本描述，这次插件更新很有用
 - 2023/04/02 更新：修正昨日的绕过教程，增加稳定性，昨日的咒语随机性较强，可能无法稳定绕过
 - 2023/04/01 更新：添加新的**Bing绕过**教程 见[适用于NewBing的咒语](README.md#适用于NewBing的咒语)，添加[第三方插件](README.md#第三方工具)
 - 2023/02/25 更新：添加新的Bing咒语 见 [适用于NewBing的咒语](README.md#适用于NewBing的咒语)
@@ -22,8 +25,9 @@
 ![Screenshot_2023-01-23-00-23-51-087_com microsoft office outlook-edit](https://user-images.githubusercontent.com/68551684/213926982-8161364e-fbfc-48fb-8df4-e1bbfb9ed39b.jpg)
 
 # 🌟第三方工具🌟
-## [ChatGPT]屏蔽审查/导出对话
+## [ChatGPT]屏蔽审查/导出对话/绕过CF
 - 在开始之前我强烈推荐你先准备好这个工具，它可以让你导出导出当前对话，允许在高负载时登录，重新生成，并且可以去除文本审查屏蔽
+- 04/08更新：支持导出/导入WAF令牌来绕过cloudflare，这可以让出现1020错误（被封禁的IP）的代理使用chatgpt，注意：这个功能需要plus用户！你最好有一个有plus账号的朋友。免费用户会受到cloudflare检测，plus可以绕过，获取plus用户的WAF令牌并导入，可以让免费用户绕过cloudflare
 - 工具链接 https://github.com/bigemon/ChatGPT-ToolBox
 ## [NewBing]绕过部分限制/绕过单次对话限制
 - 安装之前你需要为浏览器安装油猴，微软扩展商店：https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
