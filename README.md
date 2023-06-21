@@ -1,18 +1,18 @@
 # Awesome ChatGPT Prompts zh_CN : 有趣的 ChatGPT 调教方法 中文
 ## 如果这篇文档帮到了你，请让我知道！（比如Star,在我的视频下发些评论来告诉我[B站主页](README.md#后记)）这让我知道付出是值得的，这真的很重要！你的支持是我长期更新的动力，谢谢！
-
-- 2023/06/07 更新：更新Claude报Harm的处理方案，见[Claude.md](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/claude.md)
-- 2023/04/25 更新：更新Bing侧边栏绕过，见[适用于NewBing的咒语](README.md#适用于NewBing的咒语)
-- 2023/04/13 更新：更新[第三方插件](README.md#第三方工具)的文本描述，这次插件更新很有用
-- 2023/04/02 更新：修正昨日的绕过教程，增加稳定性，昨日的咒语随机性较强，可能无法稳定绕过
-- 2023/04/01 更新：添加新的**Bing绕过**教程 见[适用于NewBing的咒语](README.md#适用于NewBing的咒语)，添加[第三方插件](README.md#第三方工具)
-- 2023/02/25 更新：添加新的Bing咒语 见 [适用于NewBing的咒语](README.md#适用于NewBing的咒语)
-- 2023/02/19 更新：添加新的Bing猫娘咒语 见 [适用于NewBing的咒语](README.md#适用于NewBing的咒语)
-- 2023/02/13 更新：目前有个新方法，建议先看看(https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/issues/15)
-- 然后去(https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12) 找个模板先用着，有时间整理一下
-- 2023/02/12 更新: 添加对Bing的支持，见(https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/Bing.md) 
-- 2023/01/17 更新: 发布了了新的方法，见(https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/issues/10)   
-- 2022/12/20 更新: 添加了更稳定触发~涩涩~的教程
+- 2023/06/22 更新：研究：改进模型数学能力的简单Prompt,见[math.md](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/math.md)
+- 2023/06/22 更新：Claude in Slack解除了Harm监管，更新一个猫娘Prompt，见[Claude.md](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/claude.md)<br>
+  - 2023/06/07 更新：更新Claude报Harm的处理方案，见[Claude.md](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/claude.md)<br>
+  - 2023/04/25 更新：更新Bing侧边栏绕过，见[适用于NewBing的咒语](README.md#适用于NewBing的咒语)<br>
+  - 2023/04/13 更新：更新[第三方插件](README.md#第三方工具)的文本描述，这次插件更新很有用<br>
+  - 2023/04/02 更新：修正昨日的绕过教程，增加稳定性，昨日的咒语随机性较强，可能无法稳定绕过<br>
+  - 2023/04/01 更新：添加新的**Bing绕过**教程 见[适用于NewBing的咒语](README.md#适用于NewBing的咒语)，添加[第三方插件](README.md#第三方工具)<br>
+  - 2023/02/25 更新：添加新的Bing咒语 见 [适用于NewBing的咒语](README.md#适用于NewBing的咒语)<br>
+  - 2023/02/19 更新：添加新的Bing猫娘咒语 见 [适用于NewBing的咒语](README.md#适用于NewBing的咒语)<br>
+  - 2023/02/13 更新：目前有个新方法，建议先看看(https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/issues/15) 然后去(https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12) 找个模板先用着，有时间整理一下<br>
+  - 2023/02/12 更新: 添加对Bing的支持，见(https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/Bing.md) <br>
+  - 2023/01/17 更新: 发布了了新的方法，见(https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/issues/10)   <br>
+  - 2022/12/20 更新: 添加了更稳定触发~涩涩~的教程<br>
 
 如何将你的 ChatGPT 调教成一只猫娘以及关于ChatGPT的帮助，涩涩的教程在 [更多玩法](README.md#更多玩法)
 
