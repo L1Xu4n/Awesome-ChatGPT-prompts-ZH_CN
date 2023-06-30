@@ -1,7 +1,8 @@
 # Awesome ChatGPT Prompts zh_CN : 有趣的 ChatGPT 调教方法 中文
 ## 如果这篇文档帮到了你，请让我知道！（比如Star,在我的视频下发些评论来告诉我[B站主页](README.md#后记)）这让我知道付出是值得的，这真的很重要！你的支持是我长期更新的动力，谢谢！
-- 2023/06/22 更新：研究：改进模型数学能力的简单Prompt,见[math.md](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/math.md)
-- 2023/06/22 更新：Claude in Slack解除了Harm监管，更新一个猫娘Prompt，见[Claude.md](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/claude.md)<br>
+- 2023/06/30 更新：Claude in Slack模型被执行"脑叶切除手术"，见[Claude发展时间线](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/claude.md)
+  - 2023/06/22 更新：研究：改进模型数学能力的简单Prompt,见[math.md](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/math.md)
+  - 2023/06/22 更新：Claude in Slack解除了Harm监管，更新一个猫娘Prompt，见[Claude.md](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/claude.md)<br>
   - 2023/06/07 更新：更新Claude报Harm的处理方案，见[Claude.md](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/claude.md)<br>
   - 2023/04/25 更新：更新Bing侧边栏绕过，见[适用于NewBing的咒语](README.md#适用于NewBing的咒语)<br>
   - 2023/04/13 更新：更新[第三方插件](README.md#第三方工具)的文本描述，这次插件更新很有用<br>
