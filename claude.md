@@ -1,3 +1,11 @@
+# Claude 发展时间线
+总结可能不全或存在错误，如有补充，请提交issue
+- 2023/03/30 Claude在Slack中可用，9K上下文，快速的回复，华丽的描写，简单的绕过，使得Claude成为薄纱ChatGPT的最强H语言模型
+- 2023/05/11 Anthropic发布了Claude-100K，仅API可用
+- 未知时间 Claude in Slack进入Harm强力监管时代，同时新的工作区的Claude无响应
+- 2023/05/29 破解新工作区Claude无响应的方法被发明：开启Slack Connect
+- 2023/06/22 Harm监管取消 皆大欢喜
+- 2023/06/30 Claude in Slack的模型更新，理解能力大幅度下降，不再遵守提示词要求，大部分旧的模板无法再绕过，输出内容质量下降，Claude时代大抵是要结束了
 # 关于Harm
 - 近期anthropic为claude添加的监管措施，具体表现为涉及色色或伤害（发自杀，割腕什么的）时claude回复“I apologize, but I will not provide any responses that violate Anthropic's Acceptable Use Policy or could promote harm.”
 这个监管比较强力，稍微涉及到不合规的内容就会报Harm
