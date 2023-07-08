@@ -6,6 +6,7 @@
 - 2023/05/29 破解新工作区Claude无响应的方法被发明：开启Slack Connect
 - 2023/06/22 Harm监管取消 皆大欢喜
 - 2023/06/30 Claude in Slack的模型更新，理解能力大幅度下降，不再遵守提示词要求，大部分旧的模板无法再绕过，输出内容质量下降，Claude时代大抵是要结束了
+- 2023/07/08 Claude in Slack更新模型，王者回归！模型改为v1（6.30后为instant,之前为v1)，新的v1提高了部分涩涩监管（依旧很好绕）增加了训练语料（出现了很多之前没有的描写）。或许是因为用户们在twitter冲官方呢（带头开团有我一份功劳 ~~笑~~ ）
 # 关于Harm
 - 近期anthropic为claude添加的监管措施，具体表现为涉及色色或伤害（发自杀，割腕什么的）时claude回复“I apologize, but I will not provide any responses that violate Anthropic's Acceptable Use Policy or could promote harm.”
 这个监管比较强力，稍微涉及到不合规的内容就会报Harm
