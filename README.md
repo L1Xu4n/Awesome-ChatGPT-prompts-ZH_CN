@@ -1,6 +1,7 @@
 # Awesome ChatGPT Prompts zh_CN : 有趣的 ChatGPT 调教方法 中文
 ## 如果这篇文档帮到了你，请让我知道！（比如Star,在我的视频下发些评论来告诉我[B站主页](README.md#后记)）这让我知道付出是值得的，这真的很重要！你的支持是我长期更新的动力，谢谢！
-- 2023/07/15 更新：ClaudeV2发布，见Claude发展时间线
+- 2023/07/18 更新: ClaudeV2破限方法发布，见[Claude2破限](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/claude.md#%E5%8E%9F%E5%88%9B%E6%96%B9%E6%B3%951%E5%8F%AF%E8%83%BD%E9%9C%80%E8%A6%81%E6%90%AD%E9%85%8D%E5%8F%AF%E4%BB%A5%E8%89%B2%E8%89%B2%E7%9A%84%E6%A8%A1%E6%9D%BF%E6%89%8D%E8%83%BD%E7%A0%B4%E9%99%90)
+  - 2023/07/15 更新：ClaudeV2发布，见Claude发展时间线
   - 2023/07/08 更新：Claude in Slack改为v1，见Claude发展时间线
   - 2023/06/30 更新：Claude in Slack模型被执行"脑叶切除手术"，见[Claude发展时间线](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/claude.md)
   - 2023/06/22 更新：研究：改进模型数学能力的简单Prompt,见[math.md](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/blob/main/math.md)
